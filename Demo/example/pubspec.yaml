@@ -1,0 +1,28 @@
+name: vod_upload_flutter_example
+description: Demonstrates how to use the flutter_vod_video_upload plugin.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_easyloading: ^3.0.5
+  image_picker: ^1.0.1
+  uuid: ^3.0.7
+  flutter_localizations:
+    sdk: flutter
+  vod_upload_flutter:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/json/

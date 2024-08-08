@@ -1,0 +1,42 @@
+{
+  "zh": {
+    "start_upload": "开始上传",
+    "no_file_selected": "未选择文件",
+    "signature_is_null": "签名为空",
+    "video_path_is_null": "视频路径为空",
+    "file_not_exist": "文件不存在",
+    "has_file_uploading": "已经有文件正在上传",
+    "upload_param_invalid": "上传参数无效",
+    "cancel_upload": "取消上传",
+    "resume_upload": "恢复上传",
+    "get_status_info": "获取信息",
+    "info_not_obtained": "信息未获取到",
+    "add_video": "添加视频",
+    "add_media": "添加图片",
+    "clear_panel": "清空面板",
+    "prepare_upload": "预上传",
+    "prepare_upload_success": "预上传成功",
+    "add_cover_image": "添加封面图",
+    "add_cover_image_success": "添加封面图成功"
+  },
+  "en": {
+    "start_upload": "Start Upload",
+    "no_file_selected": "No File Selected",
+    "signature_is_null": "Signature is Null",
+    "video_path_is_null": "Video Path is Null",
+    "file_not_exist": "File Not Exist",
+    "has_file_uploading": "Has File Uploading",
+    "upload_param_invalid": "Upload Param Invalid",
+    "cancel_upload": "Cancel Upload",
+    "resume_upload": "Resume Upload",
+    "get_status_info": "Get Status Information",
+    "info_not_obtained": "Information Not Obtained",
+    "add_video": "Add Video",
+    "add_media": "Add Image",
+    "clear_panel": "Clear Panel",
+    "prepare_upload": "Prepare Upload",
+    "prepare_upload_success": "Prepare Upload Success",
+    "add_cover_image": "Add Cover Image",
+    "add_cover_image_success": "Add Cover Image Success"
+  }
+}
