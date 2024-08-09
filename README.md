@@ -19,4 +19,4 @@ Or scan the QR code
 
 ## License
 
-Tinker is under the BSD license. See the [LICENSE](./LICENSE) file for details.
+Upload SDK Flutter Version is under the MIT license. See the [LICENSE](./LICENSE) file for details.
